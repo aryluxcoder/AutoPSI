@@ -3,13 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Welcome to AutoPSI
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **The Thermal Modelling Tool**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **heading over to the website '[AutoPSI](https://autopsi.co.uk)'**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
